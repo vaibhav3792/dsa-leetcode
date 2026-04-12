@@ -25,8 +25,8 @@ int knapsack(int wt[], int val[], int W, int n){
 - Updated Code: 
 
 ```cpp
-int static t[102][1002]; // Assuming that n<=100 and W<=1000
-memset(t,-1, sizeof(t));
+int static t[102][1002]; // Assuming that constraints are n<=100 and W<=1000
+memset(t,-1, sizeof(t)); // This will be inside main function
 
 int knapsack(int wt[], int val[], int W, int n){
     // Base Condition
