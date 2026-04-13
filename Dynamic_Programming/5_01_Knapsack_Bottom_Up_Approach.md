@@ -18,6 +18,8 @@ for(int i = 0;i<n+1;i++){
     }
 }
 ```
+
+![alt text](5_Tabulation.png)
 ---
 
 ## Comparison
