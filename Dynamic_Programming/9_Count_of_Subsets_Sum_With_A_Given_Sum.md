@@ -17,9 +17,11 @@ class Solution {
         
         for(int i = 1;i<=n;i++){
             for(int j = 0;j<target+1;j++){
+                
                 dp[i][j] = dp[i-1][j];
+
                 if(j>=arr[i-1]){
-                dp[i][j] += dp[i-1][j-arr[i-1]];
+                    dp[i][j] += dp[i-1][j-arr[i-1]];
                 }
             }
         }
