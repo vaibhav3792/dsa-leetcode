@@ -6,3 +6,5 @@
 - s1 = (diff + sum(arr))/2
 
 - We have reduced this to a Q of finding the number of subsets with a given sum
+
+- Jab bhi koi naya problem dikhe to socho ki kya maine isse similar problem banaya hai. Then do some variation and you will get the required code.
