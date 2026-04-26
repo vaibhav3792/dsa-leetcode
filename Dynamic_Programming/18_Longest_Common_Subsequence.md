@@ -1,0 +1,14 @@
+- Largest Common Substring
+- Print LCS
+- Shortest Common Supersequence
+- Print SCS
+- Min # of insertion and deletions a->b
+- Largest Repeating Subsequence
+- Length of largest subsequence of a which is a substring of b
+- Subsequence Pattern Matching 
+- Count how many times a appears as subsequence in b
+- Largest Palindromic Subsequence
+- Largest Palindromic Substring
+- Count of Palindromic Substring
+- Min # of Deletions in a string to make it a palindrome
+- Min # of Insertions in a string to make it a Palindrome
