@@ -2,6 +2,8 @@
 - Jo values change ho rahe hote hai unko use karke matrix banate hai. 
 - In this case it is m and n which are the length of strings X and Y respectively. 
 - Base Condition -> Initialization
+- Remember that this is the bottom up approach. We are slowly building up values from bottom to the top.
+- Remembering this makes it easier to visualize and understand. Don't try to break it from top to bottom.
 ``` cpp
 int func(Input){
     // Base Condition
