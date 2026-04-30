@@ -1,6 +1,8 @@
 - Parent : LCS
 - Input and Output format are the same
 - Discontinuity -> Turn the length to 0
+- We will be taking a variable 'res' to store the max value
+- If we use dp[n][m] instead of 'res' then we might get output as 0 which will be wrong for certain test cases
 
 ## Code
 
