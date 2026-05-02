@@ -8,7 +8,7 @@
 ```cpp
 int i = m, int j = n; // m and n are length of strings a and b respectively
 
-string s;
+string s="";
 
 while(i>0 && j>0){
     if(a[i-1]==b[j-1]){
