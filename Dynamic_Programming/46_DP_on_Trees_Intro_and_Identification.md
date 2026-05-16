@@ -1,0 +1,7 @@
+- General Syntax
+- Identification
+    - When we are given an entire tree to traverse
+    - At every node you have to do an operation with time TC = O(N)
+- Diameter of a Binary Tree
+- Maximum Path Sum from any node to any node
+- Maximum Path Sum from leaf node to leaf node
